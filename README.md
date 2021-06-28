@@ -1,1 +1,0 @@
-# Spectrum_Task_1
