@@ -43,8 +43,8 @@ header{
 }
 .logo{
     cursor: pointer;
-    width: 100px;
-    height:100px
+    width: 80px;
+    height:80px
     
 }
 .nav-area{
@@ -91,7 +91,7 @@ header{
     height: 300px;
     min-width: 250px;
     width: 450px;
-    background: linear-gradient(-45deg, #159ddb, #da15c0);
+    background: linear-gradient(-45deg, #6db4d4, #306ae7);
     border-radius: 20px;
     padding-left: 20px;
     padding-top: 10px;
